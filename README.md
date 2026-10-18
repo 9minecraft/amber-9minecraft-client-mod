@@ -6,6 +6,19 @@ An unofficial rebuild of **gqdThinky**'s original work, kept running on current 
 
 Loader: Fabric.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric |
+| 26.2 | Fabric |
+| 26.1.2 | Fabric |
+| 1.21.11 | Fabric |
+
+## Requires
+
+- **Fabric Language Kotlin Mod**
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
